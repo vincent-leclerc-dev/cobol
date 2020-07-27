@@ -1,0 +1,22 @@
+{
+  "name": "cobol",
+  "version": "1.0.0",
+  "description": "cobol",
+  "main": "hello-world.cbl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vleclerc/cobol.git"
+  },
+  "keywords": [
+    "cobol"
+  ],
+  "author": "Vincent Leclerc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vleclerc/cobol/issues"
+  },
+  "homepage": "https://github.com/vleclerc/cobol#readme"
+}
